@@ -40,6 +40,7 @@ body {
 	text-align: center;
 }
 .footer {
+	font: 100%/1.4 OCR A Std, monospace;
 	background: #DB2C23;
 	margin: 0px;
 	float: left;
