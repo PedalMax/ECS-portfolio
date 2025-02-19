@@ -49,6 +49,13 @@ body {
 	height: 50px;
 	text-align: center;
 }
+.left-image {
+    width: 300px; 
+    height: auto; 
+    float: left; 
+    margin-right: 20px; 
+}
+
 a:link {
      color: #4287f5;
 }
