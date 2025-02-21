@@ -55,12 +55,13 @@ body {
     float: left; 
     margin-right: 20px; 
 }
-.right-image {
+.float-right {
     width: 300px; 
     height: auto; 
     float: right; 
     margin-left: 20px; 
 }
+
 
 
 a:link {
