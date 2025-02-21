@@ -60,7 +60,7 @@ body {
     height: auto; /* Keeps aspect ratio */
     float: right; /* Moves the image to the right */
     margin-left: 20px; /* Adds space between the image and text */
-    margin-top: -50px; /* Moves the image up */
+    margin-top: -80px; /* Moves the image up */
 
 }
 
